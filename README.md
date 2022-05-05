@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Cool Projects.**
+- 🔭 I’m currently working on **Projects.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
