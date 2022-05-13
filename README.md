@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" src="https://imgur.com/QOUTHIS.gif" height="400px"/></a>
 
-<h1 align="center"> やあ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center"> こんにちは <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer</h3>
 
 
